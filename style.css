@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+  body{ width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(
+        to top,
+        white 0%,
+        white 50%,
+    lightsteelblue 50%,
+    lightsteelblue 100%
+
+
+
+    );
+  }
+
+h1{
+    font-family:'Sacramento', cursive;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration-color: white;
+    padding-top: 70px;
+    color: whitesmoke;
+    
+
+    
+}
+p{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    padding-top: 60px;
+
+    /*class selectors*/
+}
+.container{
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    margin-left: auto;
+    border-bottom: 50px;
+
+    
+
+}
+
+.engineer{
+    color: whitesmoke;
+}
+
+
+
+.image1{
+    border-radius: 50%;
+    margin-top:300px;
+    
+    
+
+
+}
+
+
+
+.image2{
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    border-radius: 50%;
+}
+.image2{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    border-radius: 50%;
+    border-left: 25px;
+}
+.image3{
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    border-radius: 50%;
+
+    /*features section*/
+}
+#features{
+    text-align: center;
+    padding-top: 75px;
+    border-radius: 50%;
+    
+}
+.codeavatar{
+    border-radius: 50%;
+}
+
+.greetings{
+    font-family: 'Montserrat', sans-serif;
+    color: royalblue;
+}
+.passion{
+    font-family: 'Merriweather', serif;
+}
+.html-symbol{
+   border-radius: 50%; 
+
+}
+.skill{
+
+    
+font-family: 'Montserrat', sans-serif;
+color: royalblue;
+
+}
+.skill-set{
+    font-family: 'Merriweather', serif;
+}
+.hot-spice{
+    border-radius: 50%;
+}
+.hot-wings{
+    font-family: 'Montserrat', sans-serif;
+    color: royalblue;
+}
+.best-skill{
+    font-family: 'Merriweather', serif;
+}
+.talk{
+    font-family: 'Montserrat', sans-serif;
+}
+.code-wings{
+    font-family: 'Merriweather', serif;
+}
+.btn{
+    font-family: 'Montserrat', sans-serif;
+}
+.footer{
+    font-family: 'Merriweather', serif; 
+}
+.copyright{
+    font-family: 'Montserrat', sans-serif;
+}
